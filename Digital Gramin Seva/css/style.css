@@ -1,0 +1,104 @@
+body{
+  margin:0;
+}
+
+body h1{
+  font-size: 2.5rem;
+  line-height: 3;
+}
+p{
+  color: #868e96;
+}
+span{
+  color:#fc8e04;
+}
+/* title */
+.services-image{
+  float:left;
+  margin-right: 100px;
+  width: 60em;
+}
+
+/* title */
+.carousel-item{
+  padding: 15% 15%;
+  height: 50%;
+}
+#title h1{
+  font-size: 3.5rem;
+  line-height: 2;
+}
+#title h3{
+  color: #757575;
+}
+
+
+/* services */
+#services{
+  padding: 3% 15%;
+}
+#services h3:hover{
+  color:#fc8e04;
+}
+
+.service-column{
+  padding: 3% 10%;
+}
+.service-img{
+  margin: 10%;
+}
+
+/* facts */
+#facts{
+  background-color: #f7f9f8;
+  text-align: center;
+  padding: 7%;
+  color: #fc8e04;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+#facts h4{
+  font-size: 2.5rem;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+#facts span{
+  margin: 0;
+}
+/* pricing */
+#pricing{
+  text-align: center;
+  padding: 3% 10%;
+}
+#pricing ul li{
+  display:block;
+}
+
+#pricing strong{
+  font-size: 3rem;
+}
+#pricing sup{
+  color: #2f2c2c;
+    top: -21px;
+    left: 1px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* contact */
+#contact{
+  background-color: #fc8e04;
+  color:white;
+  text-align: center;
+  margin-bottom: 0;
+}
+#contact p{
+  margin: 0;
+  color: white;
+}
+#contact-details{
+  width:30%;
+  margin:auto;
+  margin-bottom: 20px;
+  text-align: right;
+}
